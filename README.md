@@ -1,6 +1,8 @@
 # Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5
 
-## This is a code repo that takes the code of the app and deploy onto Azure to demostrate the CD capability on azure using the Azure DevOps Pipeline
+## This is a code repo that takes the code of the app and deploy onto Azure to demostrate the CI/CD capability on azure using the Azure DevOps Pipeline
+
+### Behaviour: everytime code gets merged to main it will build the code and deploy it!!
 
 Following high level steps are used to achieve an deployment to the Azure resources.
 
