@@ -37,9 +37,10 @@ A[Azure Pipeline] <--> |Authentication| B[Azure Portal]
 
 
 
+## Bonus Steps: SonarQube!
+log onto an instance of Sonarqube you are hosting, then create a new project and follow the steps by selecting integration with Azure DevOps!
 
 
 
-
-reference tutorial
+#### reference tutorial
 https://www.youtube.com/watch?v=3Nv-FzzrqYU&list=PLl4APkPHzsUXseJO1a03CtfRDzr2hivbD&index=5
